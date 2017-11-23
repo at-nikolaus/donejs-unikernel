@@ -3,6 +3,8 @@ A Generator that Adds Unikernel Build Support to DoneJS Applications
 
 ## Supported Unikernels
 - Capsan (OSv)
+- Custom via https://github.com/stealify/image-builder-rpi
+  - To build a Custom Unikernel you need 2 Parts the Boot Initrd and a FileSystem Optional 
 - Stealify OS (Default) supports Docker Containers
 - NodeOS support is in Work it trys to get stable.
 - Rampkernel Support is in progress
